@@ -1,0 +1,30 @@
+1. Want personal portfolio(gains/loss)
+2. Add transactions
+3. Support up to 2000 cryptocurrencies
+4. RSI: relative strength index(user set overbought/oversold lines: generally there are recommended values), MACD: moving average convergence divergence
+5. Show summary/daily or hourly report
+6. Last hour changes 
+7. Transaction history (?)
+8. Graphs (candlestick: overlay simple moving avg with exponential moving avg)
+9. No account needed
+10. Data only on local storage and not sending anything to me like other apps do
+11. Data from Coinmarketcap with all coins (no data directly from exchanges to keep it more simple)
+12. News from Cryptopanic
+13. Don’t require a lot of manual entry
+14. Auto-complete
+15. Bookmarks/Favourites/Watchlist
+16. Search for details/summary of specific coin
+17. Dont use floating point values (due to inaccuracies), store dollars and cents in different ints
+18. Desktop notification (Price-alerts)
+19. Email notification (Price-alerts)
+20. SMS notification (Price-alerts)
+21. Different themes (Day/night mode)
+22. Color blind assist
+23. Multilingual support
+24. Import/Export file data to spreadsheets
+25. Macros and aliasing
+26. Support and resistance lines
+27. search feature/find command
+28. Do not want to exit search context before entering a new cmd
+29. sort feature
+30. Backup (interval, manual)
