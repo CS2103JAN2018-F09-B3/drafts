@@ -6,16 +6,14 @@ Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (un
 |=======================================================================
 |Priority |As a ... |I want to ... |So that I can...
 |`* * *` |new user |see usage instructions |figure out how to use the application
-
+|`* * *` |user |personal portfolio |track gains/losses
+|`* * *` |user |transaction history |track transactions
+|`* * *` |user |be able to store up to 2000 cryptocurrencies |maintain a record without using separate programs.
+|`* *`  |user |RSI: relative strength index and MACD: moving average convergence divergence values |have a details analysis on the currencies.
+|`*` |user |have a daily/hourly report |keep track of the current state of my accounts automatically.
+|`* *` |user |reflect last hour changes |avoid manually calculating the values.
+|`*` |user |Overbought/Oversold lines |to assist in my decision making.
+|`* *` |user |have candlestick graphs with simple/exponential moving average overlay |visualise my data.
+|`* * *` |user who values privacy |not have to make accounts |keep it simple.
+|`* *` |user who values privacy |store my data only on local storage |prevent having to deal with unnecessary emails.
 |=======================================================================
-
-1. As someone who plans on investing in cryptocurrencies I want a personal portfolio to track my gains and losses. 
-2. As someone who plans on investing in cryptocurrencies I want to keep track of my transactions.
-3. As a user I wish to keep track of up to 2000 cryptocurrencies.
-4. As someone who wants a more detailed and standard analysis of the markets I wish to have RSI: relative strength index and MACD: moving average convergence divergence values on the currencies. 
-5. As someone who does not have time to find information I want a summary/daily or hourly report.
-6. As someone who does not want to constantly make comparisons have the program reflect the last hour changes. 
-7. As an investor I would like to set my own overbought/oversold lines to help automate my decision processes.
-8. As someone who likes visual data I would want graphs such as candlestick: overlay simple moving avg with exponential moving avg.
-9. As someone who values privacy and hassle free programs would like to not have to sign up with emails accounts. 
-10. As someone who values privacy I want my data only on local storage and not sending anything to me like other apps do. 
