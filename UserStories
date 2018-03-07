@@ -1,13 +1,13 @@
-1. Want personal portfolio(gains/loss)
-2. Add transactions
-3. Support up to 2000 cryptocurrencies
-4. RSI: relative strength index(user set overbought/oversold lines: generally there are recommended values), MACD: moving average convergence divergence
-5. Show summary/daily or hourly report
-6. Last hour changes 
-7. Transaction history (?)
-8. Graphs (candlestick: overlay simple moving avg with exponential moving avg)
-9. No account needed
-10. Data only on local storage and not sending anything to me like other apps do
+1. As someone who plans on investing in cryptocurrencies I want a personal portfolio to track my gains and losses. 
+2. As someone who plans on investing in cryptocurrencies I want to keep track of my transactions.
+3. As a user I wish to keep track of up to 2000 cryptocurrencies.
+4. As someone who wants a more detailed and standard analysis of the markets I wish to have RSI: relative strength index and MACD: moving average convergence divergence values on the currencies. 
+5. As someone who does not have time to find information I want a summary/daily or hourly report.
+6. As someone who does not want to constantly make comparisons have the program reflect the last hour changes. 
+7. As an investor I would like to set my own overbought/oversold lines to help automate my decision processes.
+8. As someone who likes visual data I would want graphs such as candlestick: overlay simple moving avg with exponential moving avg.
+9. As someone who values privacy and hassle free programs would like to not have to sign up with emails accounts. 
+10. As someone who values privacy I want my data only on local storage and not sending anything to me like other apps do. 
 11. Data from Coinmarketcap with all coins (no data directly from exchanges to keep it more simple)
 12. News from Cryptopanic
 13. Don’t require a lot of manual entry
