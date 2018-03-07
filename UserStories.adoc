@@ -18,3 +18,4 @@ Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (un
 7. As an investor I would like to set my own overbought/oversold lines to help automate my decision processes.
 8. As someone who likes visual data I would want graphs such as candlestick: overlay simple moving avg with exponential moving avg.
 9. As someone who values privacy and hassle free programs would like to not have to sign up with emails accounts. 
+10. As someone who values privacy I want my data only on local storage and not sending anything to me like other apps do. 
