@@ -1,0 +1,32 @@
+Basic commands:
+1. help
+2. add
+3. list
+4. edit
+5. find
+6. delete
+7. select
+8. history
+9. undo
+10. redo
+11. clear
+12. exit
+
+Suggested additions:
+13. gains/losses
+14. add transactions
+15. daily report
+16. last hour changes
+17. show graph
+18. auto-complete
+19. bookmark/favourites/watchlist
+20. take details for a specific coin
+21. set notifications
+22. set themes
+23. color blind assist
+24. change language
+25. import export data to xls, csv
+26. macros and aliasing
+27. set support and resistance lines
+28. sort
+30. backup (manual/interval)
