@@ -14,7 +14,7 @@
 14. Auto-complete
 15. Bookmarks/Favourites/Watchlist
 16. Search for details/summary of specific coin
-17. Dont use floating point values (due to inaccuracies), store dollars and cents in different ints
+17. Dont use floating point values (due to inaccuracies), store dollars and cents in different ints, and used fixed point instead
 18. Desktop notification (Price-alerts)
 19. Email notification (Price-alerts)
 20. SMS notification (Price-alerts)
