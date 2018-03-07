@@ -1,0 +1,6 @@
+1. should not have numerical errors 
+2. support up to 2000 coin accounts
+3. should not have be exposed to internet connection, everything is stored locally
+4. data is transferrable across machines manually, and should only use local config files.
+5. updates for market info should happen as often as the user specifies.
+6. 
