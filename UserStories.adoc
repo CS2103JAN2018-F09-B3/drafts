@@ -10,7 +10,7 @@ Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (un
 |`* * *` |user |add new coin accounts |
 |`* * *` |user |delete coin accounts | remove unwanted information.
 |`* * *` |user actively trading |be able to store up to 2000 cryptocurrencies |maintain my extensive portfolio.
-|`* * *` |user |have a search and find feature |avoid going through all coins manually 
+|`* * *` |user |have a search and find feature |avoid going through all coins manually.
 |`* * *` |user who values privacy |use a program without making accounts |keep it simple.
 |`* * *` |user who values privacy |store my data only on local storage |avoid having my data on potentially insecure servers.
 |`* * *` |user |avoid lots of manual entry |save time
