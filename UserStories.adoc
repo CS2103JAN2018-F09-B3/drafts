@@ -5,33 +5,30 @@ Priorities: High (must have) - `* * \*`, Medium (nice to have) - `* \*`, Low (un
 [width="59%",cols="22%,<23%,<25%,<30%",options="header",]
 |=======================================================================
 |Priority |As a ... |I want to ... |So that I can...
-|`* * *` |new user |see usage instructions |figure out how to use the application
-|`* * *` |user |personal portfolio |track gains/losses
-|`* * *` |user |transaction history |track transactions
-|`* * *` |user |be able to store up to 2000 cryptocurrencies |maintain a record without using separate programs.
-|`* *`  |user |RSI: relative strength index and MACD: moving average convergence divergence values |have a details analysis on the currencies.
-|`*` |user |have a daily/hourly report |keep track of the current state of my accounts automatically.
-|`*` |user |see last hour changes |avoid manually calculating the values.
-|`*` |user |see Overbought/Oversold lines |to assist in my decision making.
-|`*` |user |have candlestick graphs with simple/exponential moving average overlay |visualise my data.
+|`* * *` |new user |see usage instructions |figure out how to use the application.
+|`* * *` |user |see my personal portfolio |track gains/losses.
+|`* * *` |user |add new coin accounts |
+|`* * *` |user |delete coin accounts | remove unwanted information.
+|`* * *` |user actively trading |be able to store up to 2000 cryptocurrencies |maintain my extensive portfolio.
+|`* * *` |user |have a search and find feature |avoid going through all coins manually 
 |`* * *` |user who values privacy |use a program without making accounts |keep it simple.
-|`* * *` |user who values privacy |store my data only on local storage |prevent having to deal with unnecessary emails.
-|`* *` |user |track price, market cap, and circulating supply from coinmarket |get all my information in one place.
+|`* * *` |user who values privacy |store my data only on local storage |avoid having my data on potentially insecure servers.
 |`* * *` |user |avoid lots of manual entry |save time
-|`* * *` |user |have an auto-complete feature | save time looking for commands or coin accounts
 |`* *` |user |have a bookmarks or favourites watchlist |prioritise certain coins
-|`*` |user |be able to seach information on a specific coin |get all my information in one place
+|`* *` |user |track price, market cap, and circulating supply from coinmarket |get all my information in one place.
+|`* *`  |user |see <<RSI>>/<<MACD>> graphs |analyse price trends for decision-making.
+|`* *` |user |see Overbought/Oversold lines | do as above.
+|`*` |user |be able to set support and resistance lines | do as above.
+|`*` |user |have candlestick graphs with simple/exponential moving average overlay | do as above.
+|`*` |user |be able to search information on a specific coin |get all my information in one place
 |`*` |user |have desktop notifications |be informed when something needs my attention
 |`* *` |user |have different color themes | customise my program.
 |`* *` |user |have multilingual support |understand the program better
-|`* *` |user |be able to import/export my data |port it into other computers
-|`* *` |user |macro and write custom aliasing for commands |simplify my experience
-|`*` |user |be able to set my own support and resistance lines |simplify my analysis of the coin values
-|`* * *` |user |have a search and find feature |avoid going through all coins manually 
-|`* *` |user |not to have to exit the current search results before entering a new command |operate on my search results
+|`* *` |user |be able to import/export my data |transfer it to other computers
+|`* *` |user |macro and write custom aliasing for commands |customize my experience
+|`*` |user |have a daily/hourly report |keep track of the current state of my accounts.
+|`* *` |user |not to have to exit the current search results before entering a new command |operate on my search results efficiently
 |`* * *` |user |have a tagging system |simplify and categorize my accounts
 |`* *` |user |have a sorting feature for names, coin prices, account values, etc. |quickly rank my choices
 |`* *` |user |have a fixed interval backups, that can also be manually set |ensure my data will not be lost
-|`* * *` |user |add new coin accounts |
-|`* * *` |user |delete coin accounts | remove unwanted information
 |=======================================================================
