@@ -8,23 +8,16 @@ Alternate names for commands.
 A website that hosts Cryptocurrency information, including cap rankings, prices, volumes and circulating supplies.
 
 [[coin]] Coin::
-A cryptocoin is a type of cryptocurrency. Examples of cryptocoin are: Bitcoin, Dogecoin, Etherium.  
+See <<cryptocurrency, Cryptocurrency>>.
 
 [[cryptocurrency]] Cryptocurrency::
-Digital currency.
+Digital currency. Examples are: Bitcoin, Dogecoin, Etherium.  
 
 [[cryptopanic]] Cryptopanic::
 An online news platform for cryptocurrencies.
 
 [[exponential-moving-average]] Exponential moving average::
 A moving average window of closing prices over a past period that places more weight on the more recent days considered. Since cryptocurrencies do not have a closing price, this defaults to their price at 23:59:59 at the timezone of the exchange. 
-
-[[fixed-point-value]] Fixed Point Value::
-A way of representing fractional numbers such that there are a fixed number of digits after the decimal point. This prevents numerical errors when certain transactions are executed. 
-
-[[floating-point-value]] Floating Point Value:: 
-A way of representing fractional numbers such that there are a variable number of digits after the decimal point. This might cause numerical errors to occur when certain transactions are executed. 
-
 
 [[MACD]] Moving Average Convergence Divergence (MACD)::
 Moving Average Convergence Divergence is an indicator that is the difference between two moving averages.
@@ -35,9 +28,6 @@ A set of commands that can be executed under a single custom command is a macro.
 [[mainstream-os]] Mainstream OS::
 Windows, Linux, Unix, OS-X
 
-[[private-contact-detail]] Private contact detail::
-A contact detail that is not meant to be shared with others
-
 [[resistance-lines]] Resistance Lines::
 When the price of a coin has risen to a certain amount, the price may eventually sustain its value at this point for a period of time. This is when it obtains "resistance". 
 
@@ -45,6 +35,7 @@ When the price of a coin has risen to a certain amount, the price may eventually
 Relative Strength Index is used as an indicator to compare the current strength of cryptocurrency versus its historical strength. The strength is calculated based on the closing prices over a period of time.
 
 [[sensitive-data]] Sensitive Data::
+Refers to data that is not meant to be shared with others. 
 
 [[simple-moving-average]] Simple Moving Average::
 A moving average window of closing prices over a past period that places equal weight on all days considered. Since cryptocurrencies do not have a closing price, this defaults to their price at 23:59:59 at the timezone of the exchange. 
