@@ -40,5 +40,5 @@ Refers to data that is not meant to be shared with others.
 [[simple-moving-average]] Simple Moving Average::
 A moving average window of closing prices over a past period that places equal weight on all days considered. Since cryptocurrencies do not have a closing price, this defaults to their price at 23:59:59 at the timezone of the exchange. 
 
-[[support-lines]] Support lines:
+[[support-lines]] Support lines::
 When the price of a coin has fallen to a certain amount, the price may eventually sustain its value at this point for a period of time. This is when it obtains "support". 
